@@ -9,4 +9,6 @@ if(isset($_POST["submit"])){
     mysqli_query($con,$query);
 }
 ?>
-
+<h3>Senjuti Saha CSE 2D 57</h3>
+  <a href="./">View Courses</a><br><br>
+  <form method="post" action="">
